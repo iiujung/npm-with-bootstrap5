@@ -1,5 +1,7 @@
 @import "variable.scss";
+@import "layout.scss";
+@import "utility.scss";
+@import "module.scss";
 
-p {
-    color: $color-primary;
-}
+//views
+@import "index.scss";
